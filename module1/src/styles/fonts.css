@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: 
+        url('../fonts/ubuntu-v19-latin-regular-webfont.woff2') format('woff2'),
+        url('../fonts/ubuntu-v19-latin-regular-webfont.woff') format('woff'),
+        url('../fonts/ubuntu-v19-latin-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: 
+        url('../fonts/ubuntu-v19-latin-500-webfont.woff2') format('woff2'),
+        url('../fonts/ubuntu-v19-latin-500-webfont.woff') format('woff'),
+        url('../fonts/ubuntu-v19-latin-regular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: 
+        url('../fonts/ubuntu-v19-latin-700-webfont.woff2') format('woff2'),
+        url('../fonts/ubuntu-v19-latin-700-webfont.woff') format('woff'),
+        url('../fonts/ubuntu-v19-latin-regular.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
